@@ -34,5 +34,22 @@ Applications:
 
 Machine Learning: algorithms trained on data to learn patterns to make predictions. The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyze and draw inferences from patterns in data.
 
+Learning (ML): 3-step process
+  - Infer / Predict
+  - Error / Loss
+  - Train / Learn
+
+
+Supervised learning
+  - Vision (CNN)
+  - Speech (RNN)
+
+Unsupervised
+  - Market segmentation
+
+Reinforcement & Semi-Supervised
+  - Planning (DQN)
+  - Games (chess, Mario)
+  - Robot movement
 
 
