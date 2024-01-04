@@ -52,4 +52,45 @@ Reinforcement & Semi-Supervised
   - Games (chess, Mario)
   - Robot movement
 
+Deep Learning and Neural Networks
+Stack our logisitic regression units into a multi-layer perceptron (MLP)
+Stacked shallow learning: Logistic regression = lego, Neural Network = castle
 
+Feature learning identifies and optimizes features from raw data
+
+Artificial neural network (ANN): a machine learning model based on the human brain's neural structure. Interconnected nodes (neurons) organized into layers.
+
+Multi-layer perceptrons (MLP) are fully connected feed-forward artificial neural networks with an input, output and hidden layers
+
+MLPs (& RNNs, CNNs, DQNs, etc)
+
+Recurrent Neural Networks (RNN): 
+  - supervised deep learning algorithm
+  - sequential / time series data
+  - uses past information to improve the performance for future inputs. 
+
+MLP: Perceptron vs LogReg / sigmoid activation
+Architecture
+(Feed forward) Input => Hidden Layers => Hypothesis fn
+"Feed forward" vs recursive (RNNs, later)
+(Loss function) Cross entropy
+(Learn) Back Propagation
+Price ~ smoking + obesity + age^2
+1-layer MLP
+Face? ~ pixels
+Extra layer = hierarchical breakdown
+Inputs => Employees => Supervisors => Boss
+Backprop / Gradient descent
+Optimizers: adagrad, adam, ... vs gradient descent
+Silver bullet, but don't abuse
+linear (housing market)
+features don't combine
+expensive: like hiring a company when the boss h(x) does all the work
+Brian comparison (dentrites, axons); early pioneers as neuroscientists / cogsci
+Different types
+vs brain
+RNNs
+CNNs
+Activation fns
+Activation units / neurons (hidden layer)
+Relu, TanH, Sigmoid
