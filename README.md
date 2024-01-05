@@ -62,7 +62,10 @@ Artificial neural network (ANN): a machine learning model based on the human bra
 
 Multi-layer perceptrons (MLP) are fully connected feed-forward artificial neural networks with an input, output and hidden layers
 
-MLPs (& RNNs, CNNs, DQNs, etc)
+Convolutional neural network (CNN): An artificial neural network that specializes in processing data with a grid-like topology, such as recognizing patterns an image.
+
+
+Deep Q-Networks (DQN) use a reinforcement learning algorithm to learn how to make decisions.
 
 Recurrent Neural Networks (RNN): 
   - supervised deep learning algorithm
