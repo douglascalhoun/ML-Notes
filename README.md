@@ -92,8 +92,6 @@ expensive: like hiring a company when the boss h(x) does all the work
 Brian comparison (dentrites, axons); early pioneers as neuroscientists / cogsci
 Different types
 vs brain
-RNNs
-CNNs
 Activation fns
 Activation units / neurons (hidden layer)
 Relu, TanH, Sigmoid
