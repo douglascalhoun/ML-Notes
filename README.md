@@ -84,7 +84,7 @@ Face? ~ pixels
 Extra layer = hierarchical breakdown
 Inputs => Employees => Supervisors => Boss
 Backprop / Gradient descent
-Optimizers: adagrad, adam, ... vs gradient descent
+Optimizers: adagrad, adam, gradient descent
 Silver bullet, but don't abuse
 linear (housing market)
 features don't combine
