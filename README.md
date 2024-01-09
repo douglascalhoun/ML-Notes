@@ -34,17 +34,27 @@ Applications:
 
 Machine Learning: algorithms trained on data to learn patterns to make predictions. The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyze and draw inferences from patterns in data.
 
-Learning (ML): 3-step process
+3-step process
   - Infer / Predict
   - Error / Loss
   - Train / Learn
 
+**Supervised learning: **
 
-Supervised learning
-  - Vision (CNN)
-  - Speech (RNN)
+Regression: predict a number from infinitely many possible outputs
 
-Unsupervised
+Classification: predict a category from a small number of possible outputs
+
+Convolutional neural network (CNN): An artificial neural network that specializes in processing data with a grid-like topology, such as recognizing patterns an image. 
+
+Recurrent Neural Networks (RNN):
+  - supervised deep learning algorithm
+  - sequential / time series data
+  - uses past information to improve the performance for future inputs.
+  - Speech 
+
+**Unsupervised Learning** find some interesting patterns in unlabeled data
+  - Clustering (Related articles / DNA genes expressed per person)
   - Market segmentation
 
 Reinforcement & Semi-Supervised
@@ -62,15 +72,12 @@ Artificial neural network (ANN): a machine learning model based on the human bra
 
 Multi-layer perceptrons (MLP) are fully connected feed-forward artificial neural networks with an input, output and hidden layers
 
-Convolutional neural network (CNN): An artificial neural network that specializes in processing data with a grid-like topology, such as recognizing patterns an image.
+
 
 
 Deep Q-Networks (DQN) use a reinforcement learning algorithm to learn how to make decisions.
 
-Recurrent Neural Networks (RNN): 
-  - supervised deep learning algorithm
-  - sequential / time series data
-  - uses past information to improve the performance for future inputs. 
+
 
 MLP: Perceptron vs LogReg / sigmoid activation
 Architecture
