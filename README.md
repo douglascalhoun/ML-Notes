@@ -45,6 +45,8 @@ Regression: predict a number from infinitely many possible outputs
 
 Classification: predict a category from a small number of possible outputs
 
+Training set: data used to train the model
+
 Convolutional neural network (CNN): An artificial neural network that specializes in processing data with a grid-like topology, such as recognizing patterns an image. 
 
 Recurrent Neural Networks (RNN):
@@ -53,9 +55,9 @@ Recurrent Neural Networks (RNN):
   - uses past information to improve the performance for future inputs.
   - Speech 
 
-**Unsupervised Learning** find some interesting patterns in unlabeled data
-  - Clustering (Related articles / DNA genes expressed per person)
-  - Market segmentation
+**Unsupervised Learning** find some interesting patterns or groupings in unlabeled data
+  - Clustering (Related articles / sort DNA into types by genes expressed /  Market segmentation)
+  - Anomaly detection (find unusual data points)
 
 Reinforcement & Semi-Supervised
   - Planning (DQN)
